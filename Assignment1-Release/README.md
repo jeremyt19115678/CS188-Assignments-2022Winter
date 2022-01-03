@@ -18,7 +18,7 @@ Detailed instructions are as below:
 https://drive.google.com/file/d/16GYHdSWS3iMYwMPv5FpeDZN2rH7PR0F2/view. The “images” folder contains three folders: train, val and test.
 * You need to create **tinyplaces-train** and **tinyplaces-val** from the miniplaces dataset. 
 
-You should have a python file called **“tinyplaces_creator.py”** to create the TinyPlaces dataset. 
+  * You should have a python file called **“tinyplaces_creator.py”** to create the TinyPlaces dataset. 
 Select the images from the target subcategories in the file categories_tinyplaces.txt, and create CIFAR-like training and validation files for TinyPlaces.
   * All images should be resized to 32 * 32.
   * There are in total 20 subcategories. The first 10 subcategories are indoor scenes. The last 10 subcategories are outdoor scenes. 
@@ -53,14 +53,13 @@ The notebook **knn.ipynb** will walk you through implementing a data loader for 
 
 * Unzip all and open the Colab file from the Drive
 
-Once you unzip the downloaded content, please upload the folder to your Google Drive. Then, open each * .ipynb notebook file with Google Colab by right-clicking the * .ipynb file. No installation or setup is required! 
+ Once you unzip the downloaded content, please upload the folder to your Google Drive. Then, open each * .ipynb notebook file with Google Colab by right-clicking the * .ipynb file. No installation or setup is required! 
 
-* Open your corresponding *.py from Google Colab and work on the assignment
-
-Next, we recommend editing your *.py file on Google Colab, set the ipython notebook and the code side by side. Work through the notebook, executing cells and implementing the codes in the *.py file as indicated. You can save your work, both *.ipynb and *.py, in Google Drive (click “File” -> “Save”) and resume later if you don’t want to complete it all at once.
+* Open your corresponding * .py from Google Colab and work on the assignment
+  Next, we recommend editing your * .py file on Google Colab, set the ipython notebook and the code side by side. Work through the notebook, executing cells and implementing the codes in the * .py file as indicated. You can save your work, both * .ipynb and * .py, in Google Drive (click “File” -> “Save”) and resume later if you don’t want to complete it all at once.
 
 While working on the assignment, keep the following in mind:
-    * The notebook and the python file have clearly marked blocks where you are expected to write code. 
-    * Do not write or modify any code outside of these blocks.
-    * Do not add or delete cells from the notebook. You may add new cells to perform scratch computations, but you should delete them before submitting your work.
-    * Run all cells, and do not clear out the outputs, before submitting. You will only get credit for code that has been run.
+* The notebook and the python file have clearly marked blocks where you are expected to write code. 
+* Do not write or modify any code outside of these blocks.
+* Do not add or delete cells from the notebook. You may add new cells to perform scratch computations, but you should delete them before submitting your work.
+* Run all cells, and do not clear out the outputs, before submitting. You will only get credit for code that has been run.
