@@ -48,7 +48,7 @@ For how to create CIFAR like dataset, you may refer to https://newbedev.com/how-
  ### Q4: KNN Classification
 The notebook **knn.ipynb** will walk you through implementing a data loader for pytorch. Your implementation will go to **knn.py**.
 
-##Steps
+## Steps
 * Download the Github repo using fork/clone
 
 * Unzip all and open the Colab file from the Drive
@@ -60,7 +60,6 @@ Once you unzip the downloaded content, please upload the folder to your Google D
 Next, we recommend editing your *.py file on Google Colab, set the ipython notebook and the code side by side. Work through the notebook, executing cells and implementing the codes in the *.py file as indicated. You can save your work, both *.ipynb and *.py, in Google Drive (click “File” -> “Save”) and resume later if you don’t want to complete it all at once.
 
 While working on the assignment, keep the following in mind:
-
     * The notebook and the python file have clearly marked blocks where you are expected to write code. 
     * Do not write or modify any code outside of these blocks.
     * Do not add or delete cells from the notebook. You may add new cells to perform scratch computations, but you should delete them before submitting your work.
