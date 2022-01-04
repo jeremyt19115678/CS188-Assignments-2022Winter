@@ -63,3 +63,8 @@ While working on the assignment, keep the following in mind:
 * Do not write or modify any code outside of these blocks.
 * Do not add or delete cells from the notebook. You may add new cells to perform scratch computations, but you should delete them before submitting your work.
 * Run all cells, and do not clear out the outputs, before submitting. You will only get credit for code that has been run.
+
+
+## Submission
+Please share the assignment folder in your Google Drive and copy the link.
+Put your link in UID_Name_Assignment1.txt and submit.
