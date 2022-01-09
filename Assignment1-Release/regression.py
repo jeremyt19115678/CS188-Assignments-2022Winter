@@ -93,17 +93,6 @@ class LinearRegression():
     - self.W: the weight of linear regression. Initialized using zeros or random. Should be consistent with the resized image data.
     - self.b: the weight of linear regression. Initialized using zeros or random.
     """
-    
-    ###########################################################################
-    # TODO: Implement the initializer for this class. #
-    ###########################################################################
-    # Replace "pass" statement with your code
-
-    # pass
-
-    ###########################################################################
-    #                           END OF YOUR CODE                              #
-    ###########################################################################
 
   def predict(self, X):
     """
