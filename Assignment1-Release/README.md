@@ -66,5 +66,4 @@ While working on the assignment, keep the following in mind:
 
 
 ## Submission
-Please share the assignment folder in your Google Drive and copy the link.
-Put your link in UID_Name_Assignment1.txt and submit.
+Please click "Share" the assignment folder in your Google Drive and copy the link to submit.
