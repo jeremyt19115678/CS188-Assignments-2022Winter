@@ -93,6 +93,8 @@ class LinearRegression():
     - self.W: the weight of linear regression. Initialized using zeros or random. Should be consistent with the resized image data.
     - self.b: the weight of linear regression. Initialized using zeros or random.
     """
+    self.W = torch.zeros((3072, 1), requires_grad=True, device='cuda')
+    self.b = torch.zeros((1), requires_grad=True, device='cuda')
 
   def predict(self, X):
     """
