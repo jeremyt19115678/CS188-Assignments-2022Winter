@@ -42,10 +42,10 @@ For how to create CIFAR like dataset, you may refer to https://newbedev.com/how-
  
  The notebook **data_loader.ipynb** will walk you through loading data for visualization. You are required to write code on **cs188/data.py**.
  
- ### Q3: Linear / Logistic /Softmax Regression (5 pts)
+ ### Q3: Linear / Logistic /Softmax Regression (40 pts)
  The notebook **regression.ipynb** will walk you through implementing linear / logistic /softmax regression. Your implementation will go to **regression.py**.
- 
- ### Q4: KNN Classification
+  
+ ### Q4: KNN Classification (35 pts)
 The notebook **knn.ipynb** will walk you through implementing a data loader for pytorch. Your implementation will go to **knn.py**.
 
 ## Steps
