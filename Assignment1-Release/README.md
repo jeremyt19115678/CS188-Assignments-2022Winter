@@ -49,11 +49,11 @@ For how to create CIFAR like dataset, you may refer to https://newbedev.com/how-
 The notebook **knn.ipynb** will walk you through implementing a data loader for pytorch. Your implementation will go to **knn.py**.
 
 ## Steps
+* Create TinyPlaces locally
 * Download the Github repo using fork/clone
+* Unzip the repo and open the Colab file from the Drive
 
-* Unzip all and open the Colab file from the Drive
-
- Once you unzip the downloaded content, please upload the folder to your Google Drive. Then, open each * .ipynb notebook file with Google Colab by right-clicking the * .ipynb file. No installation or setup is required! 
+ Once you unzip the downloaded content, please upload the folder and the data to your Google Drive. Then, open each * .ipynb notebook file with Google Colab by right-clicking the * .ipynb file. No installation or setup is required! 
 
 * Open your corresponding * .py from Google Colab and work on the assignment
   Next, we recommend editing your * .py file on Google Colab, set the ipython notebook and the code side by side. Work through the notebook, executing cells and implementing the codes in the * .py file as indicated. You can save your work, both * .ipynb and * .py, in Google Drive (click “File” -> “Save”) and resume later if you don’t want to complete it all at once.
