@@ -1,20 +1,20 @@
-/b/bathroom
-/b/bedroom
-/b/bookstore
-/c/classroom
-/d/dining_room
-/f/food_court
-/k/kitchen
-/l/lobby
-/l/living_room
-/o/office
-/b/baseball_field
-/b/bridge
-/c/campsite
-/c/canyon
-/c/coast
-/f/fountain
-/h/highway
-/p/playground
-/m/mountain
-/r/rainforest
+/b/bathroom 16
+/b/bedroom 18
+/b/bookstore 20
+/c/classroom 33
+/d/dining_room 45
+/f/food_court 48
+/k/kitchen 59
+/l/lobby 63
+/l/living_room 62
+/o/office 70
+/b/baseball_field 15
+/b/bridge 24
+/c/campsite 27
+/c/canyon 29
+/c/coast 35
+/f/fountain 49
+/h/highway 53
+/p/playground 74
+/m/mountain 68
+/r/rainforest 77
