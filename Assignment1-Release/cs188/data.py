@@ -41,6 +41,8 @@ def _extract_tensors(data, num=None, feature=False):
   if feature:
     all_features = []
     
+    data['data'] = np.vstack(data['data']).reshape(-1, 3, 32, 32)
+    
     for i in range(data['data'].shape[0]):
         chans = cv2.split(data['data'][i].transpose(1,2,0))
         features = []
