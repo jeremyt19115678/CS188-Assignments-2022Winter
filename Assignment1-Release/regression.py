@@ -246,7 +246,7 @@ class LogisticRegression():
 
   def get_loss(self, y_pred, Y):
     """
-    Using the Mean Square Error as the loss function
+    Using the Cross-Entropy Loss as the loss function
 
     Inputs:
     - Y: the target labels (num, )
@@ -342,7 +342,7 @@ class SoftmaxRegression():
 
   def get_loss(self, y_pred, Y):
     """
-    Using the Mean Square Error as the loss function
+    Using the Negative Log Likelihood Loss as the loss function
 
     Inputs:
     - Y: the target labels (num,)
