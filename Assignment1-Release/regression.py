@@ -20,7 +20,7 @@ def linear(X, W, b):
     - b: the bias which has been initialized
     
     Returns:
-    - y_pred: scores, in the range of [0,1], representing the output of the linear function.
+    - y_pred: scores, representing the output of the linear function.
             for linear regression and logistic regression, should be shaped as (num,1) numpy array.
             for softmax regression, should be shaped as (num, 20) numpy array.
     """
