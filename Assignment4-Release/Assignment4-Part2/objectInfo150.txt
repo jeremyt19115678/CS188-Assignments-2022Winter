@@ -1,0 +1,72 @@
+Idx	Ratio	Train	Val	Name
+1	0.1576	11664	1172	wall
+2	0.1072	6046	612	building, edifice
+3	0.0878	8265	796	sky
+4	0.0621	9336	917	floor, flooring
+5	0.0480	6678	641	tree
+6	0.0450	6604	643	ceiling
+7	0.0398	4023	408	road, route
+8	0.0231	1906	199	bed 
+9	0.0198	4688	460	windowpane, window 
+10	0.0183	2423	225	grass
+11	0.0181	2874	294	cabinet
+12	0.0166	3068	310	sidewalk, pavement
+13	0.0160	5075	526	person, individual, someone, somebody, mortal, soul
+14	0.0151	1804	190	earth, ground
+15	0.0118	6666	796	door, double door
+16	0.0110	4269	411	table
+17	0.0109	1691	160	mountain, mount
+19	0.0104	2149	217	curtain, drape, drapery, mantle, pall
+20	0.0103	3261	318	chair
+21	0.0098	3164	306	car, auto, automobile, machine, motorcar
+22 	0.0074	709	75	water
+23	0.0067	3296	315	painting, picture
+24 	0.0065	1191	106	sofa, couch, lounge
+25 	0.0061	1516	162	shelf
+26 	0.0060	667	69	house
+27 	0.0053	651	57	sea
+28	0.0052	1847	224	mirror
+29	0.0046	1158	128	rug, carpet, carpeting
+30	0.0044	480	44	field
+31	0.0044	1172	98	armchair
+33	0.0033	1386	138	fence, fencing
+34	0.0031	698	61	desk
+36	0.0027	380	43	wardrobe, closet, press
+37	0.0026	3089	302	lamp
+38	0.0024	404	37	bathtub, bathing tub, bath, tub
+39	0.0024	804	99	railing, rail
+42	0.0022	1440	162	box
+44	0.0020	2650	298	signboard, sign
+47	0.0018	311	30	sand
+49	0.0018	287	23	skyscraper
+50	0.0018	468	38	fireplace, hearth, open fireplace
+51	0.0018	402	43	refrigerator, icebox
+53	0.0018	561	64	path
+54	0.0017	880	102	stairs, steps
+55	0.0017	86	12	runway
+60	0.0015	564	52	stairway, staircase
+61	0.0015	320	26	river
+62	0.0015	261	29	bridge, span
+65	0.0014	792	75	coffee table, cocktail table
+69	0.0013	266	27	hill
+70	0.0013	659	66	bench
+74	0.0012	144	9	kitchen island
+77	0.0009	304	27	boat
+78	0.0009	170	20	bar
+81	0.0009	248	25	bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+82	0.0008	492	49	towel
+84	0.0008	440	39	truck, motortruck
+85	0.0008	147	18	tower
+91	0.0007	135	12	airplane, aeroplane, plane
+95	0.0006	182	12	land, ground, soil
+97	0.0006	42	6	escalator, moving staircase, moving stairway
+102	0.0006	108	9	stage
+103	0.0006	557	55	van
+104	0.0006	52	4	ship
+105	0.0005	99	5	fountain
+110	0.0005	66	3	swimming pool, swimming bath, natatorium
+114	0.0005	80	9	waterfall, falls
+115	0.0005	59	3	tent, collapsible shelter
+127	0.0004	97	23	animal, animate being, beast, brute, creature, fauna
+128	0.0004	347	36	bicycle, bike, wheel, cycle 
+129	0.0004	52	5	lake
